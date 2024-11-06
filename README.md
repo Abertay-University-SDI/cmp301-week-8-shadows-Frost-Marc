@@ -1,8 +1,8 @@
 # CMP301_Shadows
 Starter project for CMP301. Shadow mapping.
 
-Name:
+Name: Marc Allen
 
-Number:
+Number: 2200810
 
 Outline of project:
